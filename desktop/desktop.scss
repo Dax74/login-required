@@ -6,6 +6,6 @@
 
 
 .login-required p::before {
-    content: "\A #{$content}";
+    content: "\A #{$content} \A";
     white-space: pre;
 }      
