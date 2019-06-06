@@ -6,6 +6,6 @@
 
 
 .login-required p::after {
-    content: {$content};
+    content: $content;
     white-space: pre;
 }      
