@@ -1,0 +1,10 @@
+title-size:
+  type: enum
+  default: large
+  choices:
+    - large
+    - larger
+    - x-large
+    - xx-large
+  description: 
+    en: 'Choose the size of the title'
