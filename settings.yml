@@ -2,7 +2,12 @@ title-size:
   type: string
   default: ""
   description: 
-    en: 'Choose the size of the title'
+    en: 'Choose the size of the title.'
+title-weight: 
+  type: string
+  default: ""
+  description: 
+    en: 'Choose the weight of the title.'
 title-color:
   type: string
   default: ""
