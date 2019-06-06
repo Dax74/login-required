@@ -3,3 +3,9 @@
     font-weight: $title-weight;
     color: $title-color;
 }
+
+
+.login-required p::after {
+    content: "#{$content"}\A";
+    white-space: pre;
+}      
