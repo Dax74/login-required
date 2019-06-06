@@ -8,3 +8,8 @@ title-size:
     - xx-large
   description: 
     en: 'Choose the size of the title'
+title-color:
+  type: string
+  default: ""
+  description: 
+    en: 'Used in place of a tertiary color. Use hex colors (eg, #0088cc) or names (eg, azure)'
