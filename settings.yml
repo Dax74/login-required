@@ -15,7 +15,7 @@ title-color:
     en: 'Used in place of a tertiary color. Use hex colors (eg, #0088cc) or names (eg, azure)'
 content:
   type: string
-  description: 
   default: ""
+  description: 
     en: 'Add some text'
     
