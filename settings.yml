@@ -16,5 +16,6 @@ title-color:
 content:
   type: string
   description: 
+  default: ""
     en: 'Add some text'
     
