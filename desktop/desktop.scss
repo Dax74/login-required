@@ -5,7 +5,7 @@
 }
 
 
-.login-required p::after {
+.login-required p::before {
     content: "\A #{$content}";
     white-space: pre;
 }      
