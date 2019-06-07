@@ -28,3 +28,8 @@ text_color:
   default: ""
   description: 
     en: 'Choose the color of the text.'     
+image_color_background:
+  type: string
+  default: ""
+  description: 
+    en: 'Used if the background image is missing. Use hex colors (eg, #0088cc) or names (eg, azure)'
