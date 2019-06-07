@@ -40,3 +40,10 @@ image_color_background:
   default: ""
   description: 
     en: 'Used in place of a background image. Use hex colors (eg, #0088cc) or names (eg, azure)'
+logo_image:
+  type: string
+  default: "https://i.imgur.com/xGf3ym7.png"
+  description: 
+    en: 'The source url for your logo. Tip: You can upload an image to your main theme and use the url from that, 
+         but make sure that you do not use "Uploads" section of this component. Any uploads added to this component will be 
+         deleted whenever it is updated.'
