@@ -18,4 +18,8 @@ content:
   default: ""
   description: 
     en: 'Add some text'
-    
+text-size:
+  type: string
+  default: ""
+  description: 
+    en: 'Choose the size of the text under the title.'
