@@ -4,10 +4,18 @@
     color: $title-color;
 }
 
-
 .login-required p::before {
     content: "\A #{$content} \A";
     white-space: pre-wrap;
     font-size: $text-size;
     color: $text-color;
-}      
+}   
+
+.static-login {
+    background-image: url("https://i.imgur.com/k7SnZth.jpg");
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: $image-color-background;
+}
