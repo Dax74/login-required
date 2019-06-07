@@ -19,3 +19,10 @@
     background-repeat: no-repeat;
     background-color: $image-color-background;
 }
+
+.login-required h2 a::before {
+    content: url($logo-image);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}    
