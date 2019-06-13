@@ -20,8 +20,8 @@
     background-color: $image-color-background;
 }
 
-.custom-image {
-    background-image: url($logo-image);
+.login-required h2 a::before {
+    content: url($logo-image);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
